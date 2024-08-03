@@ -1,0 +1,92 @@
+.skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin: 130px 170px;
+}
+
+.my-skills {
+    padding: 0px 30px;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.my-skills span {
+    background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.skills-logo{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.skills-logo img {
+    width: 40px;
+    height:40px;
+}
+
+.skills-section {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+
+.skills-left, .skills-right {
+    border-radius: 30px;
+    padding: 10px 50px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 50px;
+    min-width: 200px;
+    align-items: center;
+    background: #1e1d1c;
+}
+
+.skills-left p, .skills-right p {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.left-ab, .right-ab {
+    display: flex;
+    justify-content: space-around;
+    gap: 150px;
+    flex: 1;
+}
+
+.left-a, .left-b, .right-a, .right-b {
+    flex: 1;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px; 
+}
+
+li {
+    font-size: 18px;
+    margin: 35px 0;
+    position: relative;
+    padding-left: 40px;
+}
+
+li.custom-bullet::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 25px; 
+    height: 25px; 
+    background-image: url('../../assets/checkmark-logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}

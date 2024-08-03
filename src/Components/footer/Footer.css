@@ -1,0 +1,33 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 465px;
+}
+
+.footer-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+    font-size: px;
+}
+.footer-menu li{
+    font-size: 20px;
+
+}
+.anchor-link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.rights{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 560px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 10px;
+    color: rgb(186, 186, 186);
+}

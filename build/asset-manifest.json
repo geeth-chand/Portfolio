@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a5a5452.css",
+    "main.js": "/static/js/main.c820f819.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/renuct.jpg": "/static/media/renuct.7c9df595285897a3efba.jpg",
+    "static/media/cryptograph.png": "/static/media/cryptograph.f16a5ac315c4e59dfe3c.png",
+    "static/media/typescript-logo.png": "/static/media/typescript-logo.239bcaac755341c67add.png",
+    "static/media/tailwind-logo.png": "/static/media/tailwind-logo.3549d9e451d7abb96934.png",
+    "static/media/java-logo.png": "/static/media/java-logo.4e332879122f609caa57.png",
+    "static/media/checkmark-logo.png": "/static/media/checkmark-logo.b2ea67103db2184bb65c.png",
+    "static/media/html-logo.png": "/static/media/html-logo.fb627e76c05a9a6c7444.png",
+    "static/media/css-logo.png": "/static/media/css-logo.ea63097553654f07d95c.png",
+    "static/media/react-logo.png": "/static/media/react-logo.20adfb35ae6a6e5817bf.png",
+    "static/media/location.png": "/static/media/location.88dfd21101217f0dd6c6.png",
+    "static/media/python-logo.png": "/static/media/python-logo.f1a07429fcf04073a41e.png",
+    "static/media/mail.png": "/static/media/mail.d53c27d3a976bef8ddeb.png",
+    "static/media/phone.png": "/static/media/phone.1528055c2a268e5126e0.png",
+    "static/media/education-logo.png": "/static/media/education-logo.504f5308881fd3a81f79.png",
+    "static/media/github-logo.png": "/static/media/github-logo.7c3549f395e94c5209bf.png",
+    "static/media/linkedin.png": "/static/media/linkedin.e4b2975bfc3cd2041f35.png",
+    "static/media/profile.jpg": "/static/media/profile.605aaf93aea726f121e6.jpg",
+    "static/media/javascript-logo.png": "/static/media/javascript-logo.ad57d9b73bdc441f5222.png",
+    "index.html": "/index.html",
+    "main.1a5a5452.css.map": "/static/css/main.1a5a5452.css.map",
+    "main.c820f819.js.map": "/static/js/main.c820f819.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5a5452.css",
+    "static/js/main.c820f819.js"
+  ]
+}

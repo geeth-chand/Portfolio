@@ -1,0 +1,109 @@
+.projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin: 130px 170px;
+}
+
+.projects-title h1{
+    padding: 0px 30px;
+    font-size: 40px;
+    font-weight: 500;
+    background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.project-cards {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.project-card {
+    position: relative;
+    border-radius: 30px;
+    width: 500px; 
+    height: 350px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8) 60%, black);    
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: white;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.overlay-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.title-buttons-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.overlay-text {
+    margin: 0;
+    font-size: 1.3em;
+    font-weight: 600;
+}
+
+.overlay-paragraph {
+    margin: 0;
+    font-size: 0.8em;
+    line-height: 1.4;
+}
+
+.button-group {
+    display: flex;
+    gap: 10px;
+}
+
+.overlay-button {
+    background-color: transparent;
+    outline: 2px solid #ffffff;
+    color: #ffffff;
+    border: none;
+    border-radius: 50px; 
+    padding: 8px 16px;
+    font-size: 0.9em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.overlay-button:hover {
+    background-color: #ffffff;
+    color: #2e2e2e;
+    border: none;
+}
