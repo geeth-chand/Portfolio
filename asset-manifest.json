@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e6362310.css",
+    "main.js": "/portfolio/static/js/main.e262078c.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/renuct.jpg": "/portfolio/static/media/renuct.7c9df595285897a3efba.jpg",
+    "static/media/cryptograph.png": "/portfolio/static/media/cryptograph.f16a5ac315c4e59dfe3c.png",
+    "static/media/typescript-logo.png": "/portfolio/static/media/typescript-logo.239bcaac755341c67add.png",
+    "static/media/tailwind-logo.png": "/portfolio/static/media/tailwind-logo.3549d9e451d7abb96934.png",
+    "static/media/java-logo.png": "/portfolio/static/media/java-logo.4e332879122f609caa57.png",
+    "static/media/checkmark-logo.png": "/portfolio/static/media/checkmark-logo.b2ea67103db2184bb65c.png",
+    "static/media/html-logo.png": "/portfolio/static/media/html-logo.fb627e76c05a9a6c7444.png",
+    "static/media/css-logo.png": "/portfolio/static/media/css-logo.ea63097553654f07d95c.png",
+    "static/media/react-logo.png": "/portfolio/static/media/react-logo.20adfb35ae6a6e5817bf.png",
+    "static/media/location.png": "/portfolio/static/media/location.88dfd21101217f0dd6c6.png",
+    "static/media/python-logo.png": "/portfolio/static/media/python-logo.f1a07429fcf04073a41e.png",
+    "static/media/mail.png": "/portfolio/static/media/mail.d53c27d3a976bef8ddeb.png",
+    "static/media/phone.png": "/portfolio/static/media/phone.1528055c2a268e5126e0.png",
+    "static/media/education-logo.png": "/portfolio/static/media/education-logo.504f5308881fd3a81f79.png",
+    "static/media/github-logo.png": "/portfolio/static/media/github-logo.7c3549f395e94c5209bf.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.e4b2975bfc3cd2041f35.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.605aaf93aea726f121e6.jpg",
+    "static/media/javascript-logo.png": "/portfolio/static/media/javascript-logo.ad57d9b73bdc441f5222.png",
+    "index.html": "/portfolio/index.html",
+    "main.e6362310.css.map": "/portfolio/static/css/main.e6362310.css.map",
+    "main.e262078c.js.map": "/portfolio/static/js/main.e262078c.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6362310.css",
+    "static/js/main.e262078c.js"
+  ]
+}
